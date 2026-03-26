@@ -10,16 +10,14 @@ export const navItems = [
 
 export const hero = {
   name: "Ronaldo Ferreira",
-  title: "Project Manager | Tech & Product",
+  title: "Project Manager especializado em produtos digitais e software",
   description:
     "Lidero projetos de software unindo visão técnica e estratégia de negócio, com experiência em ERP, produtos digitais e gestão de equipes.",
 };
 
 export const about = {
   paragraphs: [
-    "Atuo como Gerente de Projetos na Greencode, liderando iniciativas de desenvolvimento de software e produtos digitais.",
-    "Minha trajetória inclui experiência como desenvolvedor frontend, fullstack e Product Owner, com evolução consistente para posições de maior responsabilidade.",
-    "Esse caminho me permite tomar decisões estratégicas com base técnica sólida, conectando negócio, produto e execução para gerar entregas com impacto.",
+    "Atuo como Gerente de Projetos na Greencode, liderando o desenvolvimento de soluções digitais. Minha trajetória inclui atuação como desenvolvedor frontend, fullstack e Product Owner, o que me permite tomar decisões com visão técnica e foco em negócio.",
   ],
 };
 
@@ -87,7 +85,7 @@ export const projects = [
     name: "Bora Rachar",
     role: "Product Owner",
     description:
-      "Responsável pela definição e priorização do backlog, garantindo alinhamento entre stakeholders e equipe técnica e evolução contínua do produto.",
+      "Atuação como Product Owner, definindo backlog e garantindo alinhamento entre stakeholders e equipe técnica para evolução contínua do produto.",
     technologies: ["Product Discovery", "Scrum", "Jira", "Notion"],
     url: "https://app.borarachar.com.br/",
   },
@@ -95,7 +93,7 @@ export const projects = [
     name: "Litso ERP",
     role: "Project Manager",
     description:
-      "Liderança na criação e evolução de um sistema ERP completo, desde a concepção até a entrega, estruturando módulos e organizando o desenvolvimento com foco em escalabilidade e uso real por empresas.",
+      "Liderança na criação e evolução de um sistema ERP completo, desde a concepção até a entrega, estruturando módulos e organizando o desenvolvimento com foco em escalabilidade e uso por empresas.",
     technologies: ["ERP", "Gestão de Projetos", "Kanban", "Stakeholders"],
     url: "https://litso.com.br/",
   },
@@ -103,7 +101,7 @@ export const projects = [
     name: "MWBank",
     role: "Frontend Developer",
     description:
-      "Desenvolvimento de interfaces modernas e integração com APIs, garantindo performance e experiência do usuário em ambiente financeiro.",
+      "Desenvolvimento de interfaces e integração com APIs, contribuindo para performance e experiência do usuário em ambiente financeiro.",
     technologies: ["React", "JavaScript", "APIs", "Figma"],
     url: "https://mwpay.com.br/",
   },
@@ -121,9 +119,9 @@ export const skills = {
 };
 
 export const workApproach = [
-  "Organização de backlog e priorização",
+  "Organização e priorização de backlog",
   "Comunicação com stakeholders",
-  "Gestão de equipe técnica",
+  "Gestão de equipes técnicas",
   "Entrega incremental com metodologias ágeis",
 ];
 

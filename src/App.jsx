@@ -74,7 +74,7 @@ function App() {
           <SectionTitle
             eyebrow="Trajetória"
             title="Experiência Profissional"
-            subtitle="Progressão interna baseada em aumento de responsabilidade e impacto, unindo gestão, produto e tecnologia."
+            subtitle="Progressão interna baseada em aumento de responsabilidade e liderança."
           />
           <ExperienceTimeline items={experiences} />
         </section>
